@@ -1,3 +1,9 @@
+ 1.npm install 或 yarn
+ 
+ 2.react-native run-android 或 react-native run-ios
+ 
+ 
+ #以下是项目中比较常用的插件，记录以下
  package.json
  
  "cnpm": "npm --registry https://registry.npm.taobao.org install",  国内镜像下载的地址
