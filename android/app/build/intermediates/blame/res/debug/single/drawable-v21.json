@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/lv/桌面/redux_demo/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/lv/.android/build-cache/720f69f190355fd2221662a38401aab01bda8f15/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/lv/桌面/redux_demo/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/lv/.android/build-cache/6d282aefc358103fd71f564072fdfcb16884572d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/lv/桌面/redux_demo/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/lv/.android/build-cache/720f69f190355fd2221662a38401aab01bda8f15/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/lv/桌面/redux_demo/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/lv/.android/build-cache/720f69f190355fd2221662a38401aab01bda8f15/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lv/桌面/redux_demo/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/lv/.android/build-cache/720f69f190355fd2221662a38401aab01bda8f15/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/lv/桌面/redux_demo/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/lv/.android/build-cache/720f69f190355fd2221662a38401aab01bda8f15/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

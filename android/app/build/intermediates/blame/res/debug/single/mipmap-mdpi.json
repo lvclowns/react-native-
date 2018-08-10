@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lv/桌面/redux_demo/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/lv/桌面/redux_demo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lv/桌面/redux_demo/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/lv/桌面/redux_demo/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
